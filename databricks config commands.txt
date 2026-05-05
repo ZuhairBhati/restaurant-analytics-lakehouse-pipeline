@@ -1,0 +1,17 @@
+databricks configure --token
+
+databricks secrets
+
+databricks secrets create-scope sql-credentials
+
+databricks auth login --host https://azuredatabricks.net #workspace URL
+
+databricks secrets create-scope sql-credentials --initial-manage-principal users -p "Zuhair Bhati"
+
+databricks secrets put-secret sql-credentials host --string-value "server host" -p "Zuhair Bhati"
+
+databricks secrets put-secret sql-credentials database --string-value "database name" -p "Zuhair Bhati"
+
+databricks secrets put-secret sql-credentials username --string-value "user_name" -p "Zuhair Bhati"
+
+databricks secrets put-secret sql-credentials password -p "Zuhair Bhati"
