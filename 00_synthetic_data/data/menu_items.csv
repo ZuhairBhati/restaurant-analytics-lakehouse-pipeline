@@ -1,0 +1,146 @@
+restaurant_id,item_id,name,category,price,ingredients,is_vegetarian,spice_level
+REST-AUH-001,ITEM-101,Samosa (2 pcs),Starter,18.79,"Potato, Peas, Spices, Pastry",True,Medium
+REST-AUH-001,ITEM-102,Paneer Tikka,Starter,33.33,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-AUH-001,ITEM-103,Chicken 65,Starter,36.25,"Chicken, Curry Leaves, Spices",False,Hot
+REST-AUH-001,ITEM-104,Aloo Tikki Chaat,Starter,22.37,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-AUH-001,ITEM-105,Chicken Seekh Kebab,Starter,40.67,"Minced Chicken, Spices, Onion",False,Medium
+REST-AUH-001,ITEM-201,Paneer Butter Masala,Main Course,46.64,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-AUH-001,ITEM-202,Dal Makhani,Main Course,38.65,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-AUH-001,ITEM-203,Palak Paneer,Main Course,40.26,"Spinach, Paneer, Spices",True,Medium
+REST-AUH-001,ITEM-204,Malai Kofta,Main Course,44.24,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
+REST-AUH-001,ITEM-205,Chole Bhature,Main Course,41.38,"Chickpeas, Fried Bread, Spices",True,Medium
+REST-AUH-001,ITEM-301,Butter Chicken,Main Course,51.79,"Chicken, Tomato, Butter, Cream",False,Mild
+REST-AUH-001,ITEM-302,Chicken Tikka Masala,Main Course,51.59,"Chicken Tikka, Tomato Gravy, Cream",False,Medium
+REST-AUH-001,ITEM-303,Lamb Rogan Josh,Main Course,65.65,"Lamb, Yogurt, Kashmiri Spices",False,Medium
+REST-AUH-001,ITEM-304,Fish Curry,Main Course,54.7,"Fish, Coconut, Curry Leaves",False,Hot
+REST-AUH-001,ITEM-305,Chicken Biryani,Main Course,49.65,"Basmati Rice, Chicken, Saffron, Spices",False,Medium
+REST-AUH-001,ITEM-401,Naan,Bread,7.91,"Flour, Yogurt, Yeast",True,None
+REST-AUH-001,ITEM-402,Garlic Naan,Bread,10.48,"Flour, Garlic, Butter",True,None
+REST-AUH-001,ITEM-403,Butter Naan,Bread,9.27,"Flour, Butter, Milk",True,None
+REST-AUH-001,ITEM-404,Tandoori Roti,Bread,5.74,Whole Wheat Flour,True,None
+REST-AUH-001,ITEM-405,Jeera Rice,Rice,17.77,"Basmati Rice, Cumin Seeds",True,None
+REST-AUH-001,ITEM-406,Vegetable Biryani,Rice,41.74,"Basmati Rice, Mixed Vegetables, Saffron",True,Medium
+REST-AUH-001,ITEM-501,Gulab Jamun (2 pcs),Dessert,14.9,"Milk Solids, Sugar Syrup, Cardamom",True,None
+REST-AUH-001,ITEM-502,Rasmalai (2 pcs),Dessert,18.63,"Cottage Cheese, Milk, Saffron",True,None
+REST-AUH-001,ITEM-503,Kulfi,Dessert,20.3,"Milk, Cardamom, Pistachios",True,None
+REST-AUH-001,ITEM-504,Gajar Halwa,Dessert,21.27,"Carrot, Milk, Ghee, Sugar",True,None
+REST-AUH-001,ITEM-601,Masala Chai,Beverage,11.52,"Tea, Milk, Spices",True,None
+REST-AUH-001,ITEM-602,Mango Lassi,Beverage,18.71,"Mango, Yogurt, Sugar",True,None
+REST-AUH-001,ITEM-603,Sweet Lassi,Beverage,14.37,"Yogurt, Sugar, Cardamom",True,None
+REST-AUH-001,ITEM-604,Fresh Lime Soda,Beverage,11.89,"Lime, Soda, Salt/Sugar",True,None
+REST-AUH-002,ITEM-101,Samosa (2 pcs),Starter,18.35,"Potato, Peas, Spices, Pastry",True,Medium
+REST-AUH-002,ITEM-102,Paneer Tikka,Starter,34.96,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-AUH-002,ITEM-103,Chicken 65,Starter,39.75,"Chicken, Curry Leaves, Spices",False,Hot
+REST-AUH-002,ITEM-104,Aloo Tikki Chaat,Starter,23.02,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-AUH-002,ITEM-105,Chicken Seekh Kebab,Starter,41.48,"Minced Chicken, Spices, Onion",False,Medium
+REST-AUH-002,ITEM-201,Paneer Butter Masala,Main Course,43.36,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-AUH-002,ITEM-202,Dal Makhani,Main Course,38.56,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-AUH-002,ITEM-203,Palak Paneer,Main Course,40.79,"Spinach, Paneer, Spices",True,Medium
+REST-AUH-002,ITEM-204,Malai Kofta,Main Course,43.26,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
+REST-AUH-002,ITEM-205,Chole Bhature,Main Course,38.0,"Chickpeas, Fried Bread, Spices",True,Medium
+REST-AUH-002,ITEM-301,Butter Chicken,Main Course,52.14,"Chicken, Tomato, Butter, Cream",False,Mild
+REST-AUH-002,ITEM-302,Chicken Tikka Masala,Main Course,51.02,"Chicken Tikka, Tomato Gravy, Cream",False,Medium
+REST-AUH-002,ITEM-303,Lamb Rogan Josh,Main Course,67.85,"Lamb, Yogurt, Kashmiri Spices",False,Medium
+REST-AUH-002,ITEM-304,Fish Curry,Main Course,55.05,"Fish, Coconut, Curry Leaves",False,Hot
+REST-AUH-002,ITEM-305,Chicken Biryani,Main Course,49.26,"Basmati Rice, Chicken, Saffron, Spices",False,Medium
+REST-AUH-002,ITEM-401,Naan,Bread,7.86,"Flour, Yogurt, Yeast",True,None
+REST-AUH-002,ITEM-402,Garlic Naan,Bread,9.56,"Flour, Garlic, Butter",True,None
+REST-AUH-002,ITEM-403,Butter Naan,Bread,9.25,"Flour, Butter, Milk",True,None
+REST-AUH-002,ITEM-404,Tandoori Roti,Bread,6.29,Whole Wheat Flour,True,None
+REST-AUH-002,ITEM-405,Jeera Rice,Rice,17.31,"Basmati Rice, Cumin Seeds",True,None
+REST-AUH-002,ITEM-406,Vegetable Biryani,Rice,41.29,"Basmati Rice, Mixed Vegetables, Saffron",True,Medium
+REST-AUH-002,ITEM-501,Gulab Jamun (2 pcs),Dessert,15.19,"Milk Solids, Sugar Syrup, Cardamom",True,None
+REST-AUH-002,ITEM-502,Rasmalai (2 pcs),Dessert,17.59,"Cottage Cheese, Milk, Saffron",True,None
+REST-AUH-002,ITEM-503,Kulfi,Dessert,19.41,"Milk, Cardamom, Pistachios",True,None
+REST-AUH-002,ITEM-504,Gajar Halwa,Dessert,21.76,"Carrot, Milk, Ghee, Sugar",True,None
+REST-AUH-002,ITEM-601,Masala Chai,Beverage,12.3,"Tea, Milk, Spices",True,None
+REST-AUH-002,ITEM-602,Mango Lassi,Beverage,17.5,"Mango, Yogurt, Sugar",True,None
+REST-AUH-002,ITEM-603,Sweet Lassi,Beverage,14.63,"Yogurt, Sugar, Cardamom",True,None
+REST-AUH-002,ITEM-604,Fresh Lime Soda,Beverage,12.28,"Lime, Soda, Salt/Sugar",True,None
+REST-DXB-001,ITEM-101,Samosa (2 pcs),Starter,17.14,"Potato, Peas, Spices, Pastry",True,Medium
+REST-DXB-001,ITEM-102,Paneer Tikka,Starter,33.37,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-DXB-001,ITEM-103,Chicken 65,Starter,39.26,"Chicken, Curry Leaves, Spices",False,Hot
+REST-DXB-001,ITEM-104,Aloo Tikki Chaat,Starter,22.55,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-DXB-001,ITEM-105,Chicken Seekh Kebab,Starter,40.59,"Minced Chicken, Spices, Onion",False,Medium
+REST-DXB-001,ITEM-201,Paneer Butter Masala,Main Course,44.14,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-DXB-001,ITEM-202,Dal Makhani,Main Course,39.45,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-DXB-001,ITEM-203,Palak Paneer,Main Course,42.33,"Spinach, Paneer, Spices",True,Medium
+REST-DXB-001,ITEM-204,Malai Kofta,Main Course,43.43,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
+REST-DXB-001,ITEM-205,Chole Bhature,Main Course,41.86,"Chickpeas, Fried Bread, Spices",True,Medium
+REST-DXB-001,ITEM-301,Butter Chicken,Main Course,50.03,"Chicken, Tomato, Butter, Cream",False,Mild
+REST-DXB-001,ITEM-302,Chicken Tikka Masala,Main Course,51.22,"Chicken Tikka, Tomato Gravy, Cream",False,Medium
+REST-DXB-001,ITEM-303,Lamb Rogan Josh,Main Course,68.23,"Lamb, Yogurt, Kashmiri Spices",False,Medium
+REST-DXB-001,ITEM-304,Fish Curry,Main Course,57.08,"Fish, Coconut, Curry Leaves",False,Hot
+REST-DXB-001,ITEM-305,Chicken Biryani,Main Course,48.01,"Basmati Rice, Chicken, Saffron, Spices",False,Medium
+REST-DXB-001,ITEM-401,Naan,Bread,8.2,"Flour, Yogurt, Yeast",True,None
+REST-DXB-001,ITEM-402,Garlic Naan,Bread,10.14,"Flour, Garlic, Butter",True,None
+REST-DXB-001,ITEM-403,Butter Naan,Bread,8.8,"Flour, Butter, Milk",True,None
+REST-DXB-001,ITEM-404,Tandoori Roti,Bread,5.93,Whole Wheat Flour,True,None
+REST-DXB-001,ITEM-405,Jeera Rice,Rice,18.82,"Basmati Rice, Cumin Seeds",True,None
+REST-DXB-001,ITEM-406,Vegetable Biryani,Rice,43.75,"Basmati Rice, Mixed Vegetables, Saffron",True,Medium
+REST-DXB-001,ITEM-501,Gulab Jamun (2 pcs),Dessert,14.52,"Milk Solids, Sugar Syrup, Cardamom",True,None
+REST-DXB-001,ITEM-502,Rasmalai (2 pcs),Dessert,18.43,"Cottage Cheese, Milk, Saffron",True,None
+REST-DXB-001,ITEM-503,Kulfi,Dessert,19.82,"Milk, Cardamom, Pistachios",True,None
+REST-DXB-001,ITEM-504,Gajar Halwa,Dessert,20.95,"Carrot, Milk, Ghee, Sugar",True,None
+REST-DXB-001,ITEM-601,Masala Chai,Beverage,11.62,"Tea, Milk, Spices",True,None
+REST-DXB-001,ITEM-602,Mango Lassi,Beverage,18.75,"Mango, Yogurt, Sugar",True,None
+REST-DXB-001,ITEM-603,Sweet Lassi,Beverage,14.93,"Yogurt, Sugar, Cardamom",True,None
+REST-DXB-001,ITEM-604,Fresh Lime Soda,Beverage,11.88,"Lime, Soda, Salt/Sugar",True,None
+REST-DXB-002,ITEM-101,Samosa (2 pcs),Starter,17.51,"Potato, Peas, Spices, Pastry",True,Medium
+REST-DXB-002,ITEM-102,Paneer Tikka,Starter,36.25,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-DXB-002,ITEM-103,Chicken 65,Starter,37.95,"Chicken, Curry Leaves, Spices",False,Hot
+REST-DXB-002,ITEM-104,Aloo Tikki Chaat,Starter,21.56,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-DXB-002,ITEM-105,Chicken Seekh Kebab,Starter,43.56,"Minced Chicken, Spices, Onion",False,Medium
+REST-DXB-002,ITEM-201,Paneer Butter Masala,Main Course,43.54,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-DXB-002,ITEM-202,Dal Makhani,Main Course,38.66,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-DXB-002,ITEM-203,Palak Paneer,Main Course,43.08,"Spinach, Paneer, Spices",True,Medium
+REST-DXB-002,ITEM-204,Malai Kofta,Main Course,42.07,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
+REST-DXB-002,ITEM-205,Chole Bhature,Main Course,41.0,"Chickpeas, Fried Bread, Spices",True,Medium
+REST-DXB-002,ITEM-301,Butter Chicken,Main Course,52.99,"Chicken, Tomato, Butter, Cream",False,Mild
+REST-DXB-002,ITEM-302,Chicken Tikka Masala,Main Course,50.71,"Chicken Tikka, Tomato Gravy, Cream",False,Medium
+REST-DXB-002,ITEM-303,Lamb Rogan Josh,Main Course,62.73,"Lamb, Yogurt, Kashmiri Spices",False,Medium
+REST-DXB-002,ITEM-304,Fish Curry,Main Course,56.92,"Fish, Coconut, Curry Leaves",False,Hot
+REST-DXB-002,ITEM-305,Chicken Biryani,Main Course,47.55,"Basmati Rice, Chicken, Saffron, Spices",False,Medium
+REST-DXB-002,ITEM-401,Naan,Bread,7.65,"Flour, Yogurt, Yeast",True,None
+REST-DXB-002,ITEM-402,Garlic Naan,Bread,9.96,"Flour, Garlic, Butter",True,None
+REST-DXB-002,ITEM-403,Butter Naan,Bread,8.98,"Flour, Butter, Milk",True,None
+REST-DXB-002,ITEM-404,Tandoori Roti,Bread,6.06,Whole Wheat Flour,True,None
+REST-DXB-002,ITEM-405,Jeera Rice,Rice,18.48,"Basmati Rice, Cumin Seeds",True,None
+REST-DXB-002,ITEM-406,Vegetable Biryani,Rice,43.55,"Basmati Rice, Mixed Vegetables, Saffron",True,Medium
+REST-DXB-002,ITEM-501,Gulab Jamun (2 pcs),Dessert,15.71,"Milk Solids, Sugar Syrup, Cardamom",True,None
+REST-DXB-002,ITEM-502,Rasmalai (2 pcs),Dessert,18.55,"Cottage Cheese, Milk, Saffron",True,None
+REST-DXB-002,ITEM-503,Kulfi,Dessert,20.63,"Milk, Cardamom, Pistachios",True,None
+REST-DXB-002,ITEM-504,Gajar Halwa,Dessert,22.64,"Carrot, Milk, Ghee, Sugar",True,None
+REST-DXB-002,ITEM-601,Masala Chai,Beverage,12.0,"Tea, Milk, Spices",True,None
+REST-DXB-002,ITEM-602,Mango Lassi,Beverage,18.8,"Mango, Yogurt, Sugar",True,None
+REST-DXB-002,ITEM-603,Sweet Lassi,Beverage,14.89,"Yogurt, Sugar, Cardamom",True,None
+REST-DXB-002,ITEM-604,Fresh Lime Soda,Beverage,11.47,"Lime, Soda, Salt/Sugar",True,None
+REST-SHJ-001,ITEM-101,Samosa (2 pcs),Starter,17.48,"Potato, Peas, Spices, Pastry",True,Medium
+REST-SHJ-001,ITEM-102,Paneer Tikka,Starter,34.43,"Paneer, Yogurt, Spices, Bell Pepper",True,Medium
+REST-SHJ-001,ITEM-103,Chicken 65,Starter,38.21,"Chicken, Curry Leaves, Spices",False,Hot
+REST-SHJ-001,ITEM-104,Aloo Tikki Chaat,Starter,21.64,"Potato, Chickpeas, Yogurt, Tamarind",True,Mild
+REST-SHJ-001,ITEM-105,Chicken Seekh Kebab,Starter,42.09,"Minced Chicken, Spices, Onion",False,Medium
+REST-SHJ-001,ITEM-201,Paneer Butter Masala,Main Course,46.67,"Paneer, Tomato, Cream, Butter",True,Mild
+REST-SHJ-001,ITEM-202,Dal Makhani,Main Course,36.96,"Black Lentils, Kidney Beans, Cream",True,Mild
+REST-SHJ-001,ITEM-203,Palak Paneer,Main Course,42.89,"Spinach, Paneer, Spices",True,Medium
+REST-SHJ-001,ITEM-204,Malai Kofta,Main Course,45.26,"Cottage Cheese, Potato, Cashew Gravy",True,Mild
+REST-SHJ-001,ITEM-205,Chole Bhature,Main Course,40.35,"Chickpeas, Fried Bread, Spices",True,Medium
+REST-SHJ-001,ITEM-301,Butter Chicken,Main Course,51.51,"Chicken, Tomato, Butter, Cream",False,Mild
+REST-SHJ-001,ITEM-302,Chicken Tikka Masala,Main Course,50.75,"Chicken Tikka, Tomato Gravy, Cream",False,Medium
+REST-SHJ-001,ITEM-303,Lamb Rogan Josh,Main Course,64.67,"Lamb, Yogurt, Kashmiri Spices",False,Medium
+REST-SHJ-001,ITEM-304,Fish Curry,Main Course,55.13,"Fish, Coconut, Curry Leaves",False,Hot
+REST-SHJ-001,ITEM-305,Chicken Biryani,Main Course,49.9,"Basmati Rice, Chicken, Saffron, Spices",False,Medium
+REST-SHJ-001,ITEM-401,Naan,Bread,8.33,"Flour, Yogurt, Yeast",True,None
+REST-SHJ-001,ITEM-402,Garlic Naan,Bread,10.33,"Flour, Garlic, Butter",True,None
+REST-SHJ-001,ITEM-403,Butter Naan,Bread,9.15,"Flour, Butter, Milk",True,None
+REST-SHJ-001,ITEM-404,Tandoori Roti,Bread,5.83,Whole Wheat Flour,True,None
+REST-SHJ-001,ITEM-405,Jeera Rice,Rice,18.67,"Basmati Rice, Cumin Seeds",True,None
+REST-SHJ-001,ITEM-406,Vegetable Biryani,Rice,43.13,"Basmati Rice, Mixed Vegetables, Saffron",True,Medium
+REST-SHJ-001,ITEM-501,Gulab Jamun (2 pcs),Dessert,14.61,"Milk Solids, Sugar Syrup, Cardamom",True,None
+REST-SHJ-001,ITEM-502,Rasmalai (2 pcs),Dessert,18.66,"Cottage Cheese, Milk, Saffron",True,None
+REST-SHJ-001,ITEM-503,Kulfi,Dessert,19.22,"Milk, Cardamom, Pistachios",True,None
+REST-SHJ-001,ITEM-504,Gajar Halwa,Dessert,21.68,"Carrot, Milk, Ghee, Sugar",True,None
+REST-SHJ-001,ITEM-601,Masala Chai,Beverage,12.56,"Tea, Milk, Spices",True,None
+REST-SHJ-001,ITEM-602,Mango Lassi,Beverage,18.68,"Mango, Yogurt, Sugar",True,None
+REST-SHJ-001,ITEM-603,Sweet Lassi,Beverage,15.25,"Yogurt, Sugar, Cardamom",True,None
+REST-SHJ-001,ITEM-604,Fresh Lime Soda,Beverage,11.52,"Lime, Soda, Salt/Sugar",True,None
